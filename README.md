@@ -53,3 +53,52 @@ acuerdo a las necesidades que se indican.
   - imagen switch c3725-adventerprisek9-mz124-15 
   - NpCap 1.9
   - WinPcap 4.1.3
+
+- ### Comandos para la configuracion de las topologias
+Comandos para crear una vlan:
+  > configure terminal
+  >
+  > vlan #(numero que desee)
+  >
+  > name (nombre que desee)
+  >
+  > end
+
+Comandos para asignar una vlan a un puerto:
+  > configure terminal
+  >
+  > interfa f#/# (numero que desee)
+  >
+  > switchport mode access
+  >
+  > switchport access vlan # (numero que desee)
+  >
+  > end
+
+  Comandos para asignar un puerto en modo trunk:
+  > configure terminal
+  >
+  > interfa f#/# (numero que desee)
+  >
+  > switchport mode trunk
+  >
+  > end
+
+Comandos para visualizar las vlans creadas:
+  > show vlan-switch
+
+Comandos para configuracion vtp:
+  > vtp v2-mode
+  >
+  > configure terminal
+  >
+  > vtp domain (nombre que se desee)
+  >
+  > vtp password (la que se desee)
+  >
+  > vtp mode (server o client)
+
+Comandos para configuracion stp:
+  > configure terminal
+  >
+  > spanning-tree vlan # (numero que desee)
