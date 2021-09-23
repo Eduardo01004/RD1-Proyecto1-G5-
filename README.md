@@ -46,3 +46,5 @@ acuerdo a las necesidades que se indican.
 
 - ### Requerimientos Para Ejecucion del Archivo GNS3
   - imagen switch c3725-adventerprisek9-mz124-15 
+  - NpCap 1.9
+  - WinPcap 4.1.3
