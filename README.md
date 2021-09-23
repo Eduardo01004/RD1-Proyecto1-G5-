@@ -24,19 +24,19 @@ acuerdo a las necesidades que se indican.
   - Virtual box.
   - ISO del sistema operativo de Linux Ubuntu 14.04.
   - Procesador i7-6500U core 2.5GHZ
-  - 8gb de Memoria Ram dr3l
+  - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.17
   - OpenVPN version 3.3.1.
   - ## Topologia 2
   - Sistema operativo Windows 10.
   - Procesador intel core i7-6500U core 2.5GHZ
-  - 8gb de Memoria Ram dr3l
+  - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.21.
   - OpenVPN version 3.3.1.
   - ## Topologia 3
   - Sistema operativo Windows 10.
   - Procesador i5-6500U core 2.5GHZ
-  - 8gb de Memoria Ram dr3l
+  - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.21.
   - OpenVPN version 3.3.1.
 
