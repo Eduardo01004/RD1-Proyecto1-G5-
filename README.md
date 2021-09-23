@@ -1,5 +1,5 @@
 # Redes de computadora 1
-## _Practica 1_
+## _Proyecto 1_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -27,18 +27,23 @@ acuerdo a las necesidades que se indican.
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.17
   - OpenVPN version 3.3.1.
+
+  ![imagen0](imagenes/topologia1.png)
   - ## Topologia 2
   - Sistema operativo Windows 10.
   - Procesador intel core i7-6500U core 2.5GHZ
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.21.
   - OpenVPN version 3.3.1.
+  ![imagen0](imagenes/topologia2.png)
+  
   - ## Topologia 3
   - Sistema operativo Windows 10.
   - Procesador i5-6500U core 2.5GHZ
   - 8gb de Memoria Ram ddr3l
   - GNS3 version 2.2.21.
   - OpenVPN version 3.3.1.
+  ![imagen0](imagenes/topologia3.PNG)
 
   - ## Maquina virtual de Google Cloud
   - Maquina Virtual de Google Cloud con sistema operativo Debian GNU/ Linux 10 (Buster).
