@@ -45,4 +45,4 @@ acuerdo a las necesidades que se indican.
   -  OpenVPN utilizada en la maquina virtual fue la 2.4.7
 
 - ### Requerimientos Para Ejecucion del Archivo GNS3
-- imagen switch c3725-adventerprisek9-mz124-15 
+  - imagen switch c3725-adventerprisek9-mz124-15 
