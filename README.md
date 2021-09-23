@@ -102,3 +102,14 @@ Comandos para configuracion stp:
   > configure terminal
   >
   > spanning-tree vlan # (numero que desee)
+
+  - ### Carga de archivos de configuracion
+  Para realizar la carga de archivos de configuracion en primer lugar se debe crear un archivo de configuracion, copiando la configuracion del switch que se desee, con el siguiente comando.
+
+  > show running-config
+
+  ![imagen0](imagenes/show_running_config.PNG)
+
+  Luego se debe copiar y pegar todo en un documento del tipo .cfg para guardarlo y posteriormente copiar y pegarlo en otro switch.
+
+  ![imagen0](imagenes/cfg.PNG)
